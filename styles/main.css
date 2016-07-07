@@ -1,0 +1,23 @@
+.darkBG{
+	background-color: darkgrey;
+}
+
+.panelleft{
+	float:left;
+	background-color: lightgrey;
+}
+#me{
+	background-color: green;
+	float: center;
+}
+@media screen and (max-width: 980px, 768px, 640px){
+	body {
+		
+	}
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
